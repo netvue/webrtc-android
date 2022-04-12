@@ -1,6 +1,6 @@
 # android
 
-[![](https://jitpack.io/v/webrtc-sdk/android.svg)](https://jitpack.io/#webrtc-sdk/android)
+[![](https://jitpack.io/v/netvue/webrtc-android.svg)](https://jitpack.io/#netvue/webrtc-android)
 
 WebRTC pre-compiled library for android.
 

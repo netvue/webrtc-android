@@ -22,6 +22,6 @@ Step 2. Add the dependency
 
 ```gradle
   dependencies {
-    implementation 'com.github.netvue:webrtc-android:M88.01'
+    implementation 'com.github.netvue:webrtc-android:M107.01'
   }
 ```
